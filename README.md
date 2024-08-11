@@ -1,5 +1,5 @@
 # Voyager-Assist
-Assisting flight search using Generative AI-  audio transcription and natural language processing. 
+Flight search assistant using Generative AI-  audio transcription and natural language processing of transcribed text. 
 
 Tech Stack:Streamlit,LangChain
 
