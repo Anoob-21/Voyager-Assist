@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+langchain-community
+streamlit
+openai
+tiktoken
+python-dotenv
+faiss-cpu
+pypdf
+ffmpeg-python
+langchain
+whisper
+streamlit
+altair==4.1.0
+serpapi
+google-search-results
